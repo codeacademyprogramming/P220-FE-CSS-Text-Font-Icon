@@ -16,10 +16,16 @@ CSS fonts
 * [CSS Font pairings W3schools](https://www.w3schools.com/Css/css_font_pairings.asp)
 * [CSS Font shorthand W3schools](https://www.w3schools.com/Css/css_font_shorthand.asp)
 * [CSS fonts MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts)
-* [CSS @font-face rule csswg.org](https://drafts.csswg.org/css-fonts-3/#font-face-rule)
-* [CSS font-family property csswg.org](https://drafts.csswg.org/css-fonts-3/#font-family-prop)
-* [CSS font resources csswg.org](https://drafts.csswg.org/css-fonts-3/#font-resources)
+
+@font-face rule
+* [@font-face rule w3docs](https://www.w3docs.com/learn-css/font-face.html)
+* [@font-face rule css-tricks](https://css-tricks.com/snippets/css/using-font-face/)
 
 Font types
 * [Different font types medium](https://medium.com/@aitareydesign/understanding-of-font-formats-ttf-otf-woff-eot-svg-e55e00a1ef2)
 * [Different font types creativemarket](https://creativemarket.com/blog/the-missing-guide-to-font-formats)
+
+// Nice to read
+* [CSS @font-face rule csswg.org](https://drafts.csswg.org/css-fonts-3/#font-face-rule)
+* [CSS font-family property csswg.org](https://drafts.csswg.org/css-fonts-3/#font-family-prop)
+* [CSS font resources csswg.org](https://drafts.csswg.org/css-fonts-3/#font-resources)
