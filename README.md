@@ -32,4 +32,6 @@ Font types
 
 ### Resources from icons lesson
 * https://css-tricks.com/icon-fonts-vs-svg/
-* Online free icon resources https://icomoon.io/ https://fontawesome.com/v4.7.0/icons/
+* Online free icon resources
+* * https://icomoon.io/ 
+* * https://fontawesome.com/v4.7.0/icons/
