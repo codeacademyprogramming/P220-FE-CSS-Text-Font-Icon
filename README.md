@@ -29,3 +29,7 @@ Font types
 * [CSS @font-face rule csswg.org](https://drafts.csswg.org/css-fonts-3/#font-face-rule)
 * [CSS font-family property csswg.org](https://drafts.csswg.org/css-fonts-3/#font-family-prop)
 * [CSS font resources csswg.org](https://drafts.csswg.org/css-fonts-3/#font-resources)
+
+### Resources from icons lesson
+* https://css-tricks.com/icon-fonts-vs-svg/
+* Online free icon resources https://icomoon.io/ https://fontawesome.com/v4.7.0/icons/
