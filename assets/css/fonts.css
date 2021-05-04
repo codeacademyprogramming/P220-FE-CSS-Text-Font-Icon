@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'abel-pro-regular';
+    src: url('../fonts/AbelPro-Regular.eot');
+    src: url('../fonts/AbelPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AbelPro-Regular.woff2') format('woff2'),
+        url('../fonts/AbelPro-Regular.woff') format('woff'),
+        url('../fonts/AbelPro-Regular.ttf') format('truetype');
+    /* 100, 200, 300, bold bolder lighter normal */
+    font-weight: normal;
+    font-style: normal; /* italic or oblique */
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'abel-pro-bold';
+    src: url('../fonts/AbelPro-Bold.eot');
+    src: url('../fonts/AbelPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AbelPro-Bold.woff2') format('woff2'),
+        url('../fonts/AbelPro-Bold.woff') format('woff'),
+        url('../fonts/AbelPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* at rule @font-face, @media */

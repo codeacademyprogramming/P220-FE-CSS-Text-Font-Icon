@@ -1,5 +1,11 @@
+.home-icon {
+    fill: red !important;
+    width: 30px;
+    height: 30px;
+}
+
 body {
-    font-family: Inter, Arial, sans-serif;
+    font-family: 'abel-pro-bold', 'Arial', sans-serif;
 }
 
 p {
@@ -33,4 +39,14 @@ p.weight {
     color: black;
     background-color: white;
     text-shadow: 3px -3px 5px red;
+}
+
+i.red-icon {
+    color: red;
+}
+
+svg.time-left{
+    fill: purple;
+    height: 50px;
+    width: 50px;
 }
